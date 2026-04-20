@@ -25,7 +25,5 @@
 Анализировать поведение риска в различных сценариях
 Выявлять факторы, влияющие на устойчивость кредитования
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anastasia-katorgina/diploma/blob/main/notebooks/diploma_model.ipynb)
-
 Каторгина Анастасия Игоревна
 СПбГУ, 2026
